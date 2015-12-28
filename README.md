@@ -1,0 +1,2 @@
+# inherentance
+tugas3
